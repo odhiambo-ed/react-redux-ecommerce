@@ -40,9 +40,15 @@ npm run start
 
 Gets all the required dependencies of the projects.
 
-**`npm install redux`**
-**`npm install react-redux`**
-**`npm install axios`**
+````
+npm install redux
+````
+````
+npm install react-redux
+````
+````
+npm install axios
+````
 
 For more details, see [the Installation docs page](https://reactjs.org/).
 
