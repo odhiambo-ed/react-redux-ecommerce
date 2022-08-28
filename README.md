@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # React Redux eCommerce
 
 This is an eCommerce app that is build on react and redux.
@@ -59,6 +57,7 @@ For more details, see [the Installation docs page](https://reactjs.org/).
 - GitHub: [@whit3d](https://github.com/white3d)
 - Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
 - LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
+- Portfilio: [Edward Odhiambo](https://edwardodhiambo.com/)
 
 ## 🤝 Contributing
 
